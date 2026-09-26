@@ -1,3 +1,7 @@
+Para entrar en Mibot: https://t.me/DownDragonBot?start=7_a_Fbnt8hG8ozh4
+Teneis un chat disponible directo a mi :)
+
+
 [README-MIBOT.md](https://github.com/user-attachments/files/32690050/README-MIBOT.md)
 # MiBot — Sistema de bots hijo para Telegram
 
